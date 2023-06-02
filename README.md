@@ -1,5 +1,5 @@
 # ENGR103FinalProject
-#Author
+# Author
 Nicholas Le
-##What does this program do?
+## What does this program do?
 Amazing things... more soon to come. Stay tuned.
