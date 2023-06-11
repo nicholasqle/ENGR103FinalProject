@@ -13,7 +13,8 @@ A simple memory matching game using the Adafruit Circuit Playground Express.
 
 
 ## Input Guide
-Insert inputs here
+![cpx01](https://github.com/nicholasqle/ENGR103FinalProjectMemoryGame/assets/131207716/a4203aa8-c005-4d56-ad78-c2a187d576fb)
+
 ## How To Play
 Insert guide here
 ## Author
