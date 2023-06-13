@@ -22,6 +22,9 @@ A simple memory matching game using the Adafruit Circuit Playground Express.
 4. If the number is correct, the lights will turn green. If not, the lights will turn red and you can try again. You get up to 3 attempts to retry the sequence.
 5. The game ends if you win by getting the final sequence of 10 numbers correct, or lose by quitting early or getting 3 incorrect attempts. You will receive your score of how many sequences you got correct through the number of LED lights. If you win by getting 10 correct, they will be green! 
 
+## :warning: Known Issues :warning:
+-At least on the tested device, the reset button seems to spontaneously activate quite frequently. This seems to be reduced when the Circuit Playground is held off of a surface such as by the USB cable
+
 ## Author
 
 - [@nicholasqle](https://www.github.com/nicholasqle)
